@@ -1,6 +1,6 @@
-# Blog Title :link: https://nigeder.github.io/lydgs.github.io 
-### :page_facing_up: [2](https://nigeder.github.io/lydgs.github.io/tag.html) 
+# Blog Title :link: https://nigeder.github.io 
+### :page_facing_up: [1](https://nigeder.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 6 
-### :alarm_clock: 2024-11-22 19:00:16 
+### :alarm_clock: 2024-11-22 19:19:18 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
