@@ -1,6 +1,6 @@
 {
     "title":"Blog Title",
-    "subTitle":"探索未知",
+    "subTitle":":alembic:",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"2.24"
+    "GMEEK_VERSION":"latest"
 }
