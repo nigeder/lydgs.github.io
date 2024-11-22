@@ -1,3 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://nigeder.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://nigeder.github.io</link></image><lastBuildDate>Fri, 22 Nov 2024 14:39:03 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>国内或许可直连github的地区</title><link>https://nigeder.github.io/post/guo-nei-huo-xu-ke-zhi-lian-github-de-di-qu.html</link><description>山东、河南、江苏&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://nigeder.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://nigeder.github.io</link></image><lastBuildDate>Fri, 22 Nov 2024 15:18:42 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>现代浏览器可运行的前所未有强大应用收录，不好用欢迎来骂！</title><link>https://nigeder.github.io/post/xian-dai-liu-lan-qi-ke-yun-xing-de-qian-suo-wei-you-qiang-da-ying-yong-shou-lu-%EF%BC%8C-bu-hao-yong-huan-ying-lai-ma-%EF%BC%81.html</link><description>随着技术的更新迭代以及浏览器开发的不断升级，web端涌现出诸多的应用工具，鄙人认为非常值得收录并分享，故做此记录&#13;
+# 在线截屏&#13;
+js-screen-shot，网站https://www.kaisir.cn/js-screen-shot/，在github有发布&#13;
+# 在线录屏&#13;
+recorder.hetcontrasy.io&#13;
+# 在线重命名&#13;
+rename.jgeass.xyz&#13;
+# 在线电脑系统&#13;
+daedalos&#13;
+# 谷歌浏览器自带AI大模型&#13;
+谷歌gmini模型&#13;
+&#13;
+来源参考：&#13;
+【盘点现代浏览器的各种神奇能力，功能令人惊讶😮-哔哩哔哩】 https://b23.tv/Hh2I1he。</description><guid isPermaLink="true">https://nigeder.github.io/post/xian-dai-liu-lan-qi-ke-yun-xing-de-qian-suo-wei-you-qiang-da-ying-yong-shou-lu-%EF%BC%8C-bu-hao-yong-huan-ying-lai-ma-%EF%BC%81.html</guid><pubDate>Fri, 22 Nov 2024 15:18:18 +0000</pubDate></item><item><title>国内或许可直连github的地区</title><link>https://nigeder.github.io/post/guo-nei-huo-xu-ke-zhi-lian-github-de-di-qu.html</link><description>山东、河南、江苏&#13;
 不一定准确，只是看到过案例，其他地区或方法欢迎补充。</description><guid isPermaLink="true">https://nigeder.github.io/post/guo-nei-huo-xu-ke-zhi-lian-github-de-di-qu.html</guid><pubDate>Fri, 22 Nov 2024 10:32:23 +0000</pubDate></item></channel></rss>
