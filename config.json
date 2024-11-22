@@ -1,8 +1,8 @@
 {
     "title":"Blog Title",
-    "subTitle":"Blog description",
+    "subTitle":"",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"2.22",
+    "GMEEK_VERSION":"v2.24",
     "bottomText":"转载请注明出处",
     "startSite":"11/23/2024",
     "singlePage":["about"],
