@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://nigeder.github.io</link><description>探索未知</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://nigeder.github.io</link></image><lastBuildDate>Sat, 23 Nov 2024 15:04:38 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>网页可在线玩的游戏，支持存档导入导出功能</title><link>https://nigeder.github.io/post/6.html</link><description>### [在线dos游戏](https://dos.lol/)&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://nigeder.github.io</link><description>探索未知</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://nigeder.github.io</link></image><lastBuildDate>Sat, 23 Nov 2024 15:19:26 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>网页可在线玩的游戏，支持存档导入导出功能</title><link>https://nigeder.github.io/post/6.html</link><description>### [在线dos游戏](https://dos.lol/)&#13;
 [github](https://github.com/rwv/chinese-dos-games)也有，本地部署的话，安装后需在游戏程序根目录输入python download_data.py或python3 ./static/games/download_data.py&#13;
 ![image](https://github.com/user-attachments/assets/9983e73d-087d-4800-9662-8a9edd83e054)&#13;
 &#13;
@@ -18,7 +18,7 @@ https://github.com/Meekdai/Gmeek/issues/64&#13;
 以aurora为原型，用vue写的借助github/vercel实现的[无服务器博客方案](https://github.com/wallleap/ethereal)&#13;
 【免费！通过调用 GitHub API 实现的博客！使用 GitHub Issue 写文章，无需服务器！-哔哩哔哩】 https://b23.tv/d3UWfaw。</description><guid isPermaLink="true">https://nigeder.github.io/post/4.html</guid><pubDate>Fri, 22 Nov 2024 19:44:21 +0000</pubDate></item><item><title>现代浏览器可运行的前所未有强大应用收录，不好用欢迎来骂！</title><link>https://nigeder.github.io/post/3.html</link><description>随着技术的更新迭代以及浏览器开发的不断升级，web端涌现出诸多的应用工具，鄙人认为非常值得收录并分享，故做此记录&#13;
 # 在线截屏&#13;
-js-screen-shot，网站https://www.kaisir.cn/js-screen-shot/，在github有发布&#13;
+[js-screen-shot](https://www.kaisir.cn/js-screen-shot/)，在[github](https://github.com/likaia/js-screen-shot)有发布&#13;
 # 在线录屏&#13;
 网址是[recorder.getcontrast.io](https://recorder.getcontrast.io/)，目前貌似只支持谷歌浏览器&#13;
 # 在线重命名&#13;
