@@ -1,6 +1,6 @@
 {
-    "title":"Blog Title",
-    "subTitle":"探索未知",
+    "title":"探索未知",
+    "subTitle":"欢迎建议（对文章标题之类的小建议也可以提）",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION":"last",
     "bottomText":"转载请注明出处",
@@ -8,5 +8,5 @@
     "singlePage":["about"],
     "urlMode":"issue",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
-    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script><script async src='https://www.googletagmanager.com/gtag/js?id=G-KW41VH1X6Q'></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-KW41VH1X6Q');</script>"
 }
