@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>探索未知</title><link>https://nigeder.github.io</link><description>欢迎建议（对文章标题之类的小建议也可以提）</description><copyright>探索未知</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://nigeder.github.io</link></image><lastBuildDate>Sat, 30 Nov 2024 09:41:53 +0000</lastBuildDate><managingEditor>探索未知</managingEditor><ttl>60</ttl><webMaster>探索未知</webMaster><item><title>谷歌分析（Google Analytics）功能鉴赏</title><link>https://nigeder.github.io/post/9.html</link><description>检测到添加了相互关联的域名的话会在网站数据流配置代码设置的质量区域自动提示添加跨区域链接&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>探索未知</title><link>https://nigeder.github.io</link><description>欢迎建议（对文章标题之类的小建议也可以提）</description><copyright>探索未知</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://nigeder.github.io</link></image><lastBuildDate>Sat, 30 Nov 2024 15:50:22 +0000</lastBuildDate><managingEditor>探索未知</managingEditor><ttl>60</ttl><webMaster>探索未知</webMaster><item><title>谷歌分析（Google Analytics）功能鉴赏</title><link>https://nigeder.github.io/post/9.html</link><description>检测到添加了相互关联的域名的话会在网站数据流配置代码设置的质量区域自动提示添加跨区域链接&#13;
 ![image](https://github.com/user-attachments/assets/a2536095-14ed-49f7-bc33-c92d97621096)&#13;
 根据建议添加完成后代码质量就满了&#13;
 ![image](https://github.com/user-attachments/assets/d26604fd-23fc-4206-a6fa-5639321db312)&#13;
@@ -7,7 +7,7 @@
 ![image](https://github.com/user-attachments/assets/eaa4c392-d983-4961-aff8-a4f8434daaee)&#13;
 说添加后最长24小时后才会检测到更改&#13;
 ![image](https://github.com/user-attachments/assets/d32378ef-a6f7-4a3a-8d3a-ee1f970c8811)&#13;
-。</description><guid isPermaLink="true">https://nigeder.github.io/post/9.html</guid><pubDate>Sat, 30 Nov 2024 09:41:12 +0000</pubDate></item><item><title>网页可在线玩的游戏，支持存档导入导出功能</title><link>https://nigeder.github.io/post/6.html</link><description>### [在线dos游戏](https://dos.lol/)&#13;
+谷歌分析4课程[点我](https://support.google.com/analytics/answer/15068052#zippy=,get-started-using-google-analytics-introduction,go-further-with-advanced-features-in-google-analytics-advanced,answer-business-questions-with-google-analytics-intermediate,use-google-analytics-for-your-business-beginner)。</description><guid isPermaLink="true">https://nigeder.github.io/post/9.html</guid><pubDate>Sat, 30 Nov 2024 09:41:12 +0000</pubDate></item><item><title>网页可在线玩的游戏，支持存档导入导出功能</title><link>https://nigeder.github.io/post/6.html</link><description>### [在线dos游戏](https://dos.lol/)&#13;
 [github](https://github.com/rwv/chinese-dos-games)也有，本地部署的话，安装后需在游戏程序根目录输入python download_data.py或python3 ./static/games/download_data.py&#13;
 ![image](https://github.com/user-attachments/assets/9983e73d-087d-4800-9662-8a9edd83e054)&#13;
 &#13;

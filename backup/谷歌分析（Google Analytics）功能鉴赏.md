@@ -6,3 +6,4 @@
 ![image](https://github.com/user-attachments/assets/eaa4c392-d983-4961-aff8-a4f8434daaee)
 说添加后最长24小时后才会检测到更改
 ![image](https://github.com/user-attachments/assets/d32378ef-a6f7-4a3a-8d3a-ee1f970c8811)
+谷歌分析4课程[点我](https://support.google.com/analytics/answer/15068052#zippy=,get-started-using-google-analytics-introduction,go-further-with-advanced-features-in-google-analytics-advanced,answer-business-questions-with-google-analytics-intermediate,use-google-analytics-for-your-business-beginner)
